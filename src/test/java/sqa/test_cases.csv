@@ -1,0 +1,10 @@
+ProductType,Weight (kg),Size (cm),PointOfSale,DeliveryAddress,Expected Price (Euros)
+Packchen S,2,35 x 25 x 10,online,Zone 0,4.89
+Paket S,2,60 x 30 x 15,online,Zone 1,13.99
+Paket M,5,120 x 60 x 60,online,Zone 2,26.9
+Paket L,10,120 x 60 x 60,online,Zone 3,37.99
+Paket M,5,60 x 30 x 15,store,Zone 4,31.99
+Reisegepack,31.5,120 x 60 x 60,online,Zone 5,105.99
+Paket XL,31.5,120 x 60 x 60,store,Zone 6,98.99
+Packchen M,2,60 x 30 x 15,online,Zone 7,15.89
+Packchen S,2,60 x 30 x 15,online,Zone 8,8.89
